@@ -37,7 +37,7 @@ Given 47 numerical sensor readings (`F01–F47`) captured during device activity
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 ```
 RAW FEATURES (47)
@@ -74,7 +74,7 @@ FINAL PREDICTIONS → FINAL.csv
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -86,7 +86,7 @@ FINAL PREDICTIONS → FINAL.csv
 
 ---
 
-## 🚀 Setup & Usage
+## Setup & Usage
 
 ### 1. Clone the repository
 
